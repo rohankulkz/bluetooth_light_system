@@ -2,7 +2,11 @@
 
 This system connects to any Bluetooth lighting device with a **"QHM-"** prefix in its Bluetooth name and runs on **macOS**.
 
-Here are the lights I used: https://amzn.to/3Zw2HxQ
+Here are the lights I used: 
+
+https://amzn.to/3Zw2HxQ
+or 
+https://amzn.to/4dAwhrN
 
 > Support for Windows and Linux is coming soon!
 
