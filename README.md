@@ -40,7 +40,7 @@ To route system audio through BlackHole **and still hear it** through your speak
    - ✅ Your actual output device (e.g., MacBook Speakers, Headphones, etc.)
 4. Set the **Multi-Output Device** as the system output in **System Settings > Sound**
 
-You’re now ready to run the system! It will listen to your music and react with lights accordingly 🎵💡
+Run visualizer.py and you’re now ready to use the system! It will listen to your music and react with lights accordingly 🎵💡
 
 ## Thank You
 
