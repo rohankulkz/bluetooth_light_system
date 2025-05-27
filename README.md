@@ -1,6 +1,6 @@
 # 🎧 Bluetooth Lighting + Audio Reactive System
 
-This system connects to any Bluetooth lighting device with a **"QHM-"** prefix in its Bluetooth name and runs on **macOS**.
+This system connects to any Bluetooth lighting device with a **"QHM-"** prefix in its Bluetooth name and runs on **macOS**. Is fully live and works very well with DJing too!
 
 ## Demo Video (sorry about low volume...)
 
