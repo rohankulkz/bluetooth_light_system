@@ -25,7 +25,9 @@ brew install blackhole-2ch
 
 This enables audio loopback, allowing your system audio to be captured and analyzed in real-time.
 
-### 2. Install Python Dependencies
+### 2. Install Python Dependencies and Download Source Code
+
+Download the repository (code) to your computer
 
 Make sure you have Python 3.8+ installed, then install the required packages:
 
