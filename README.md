@@ -2,7 +2,7 @@
 
 This system connects to any Bluetooth lighting device with a **"QHM-"** prefix in its Bluetooth name and runs on **macOS**.
 
-## Demo Video
+## Demo Video (sorry about low volume...)
 
 [![Watch the video](https://img.youtube.com/vi/8_cW37r0Q94/0.jpg)](https://youtu.be/8_cW37r0Q94)
 
